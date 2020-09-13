@@ -1,0 +1,128 @@
+{
+  "main": {
+    "name": "Suraj Rajput",
+    "occupation": "Front End Developer",
+    "description": "To contribute productivity in team and learn further to become expert Front End Developer. To explore fascinating and creative world of HTML5, CSS3 and Java Script and emerging technology in this field.",
+    "image": "Suraj Rajput.jpeg",
+    "bio": "My name is Suraj, I'm a Front End Developer. Currently I'm working at Utok Smart Solution ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "suryarajput274@gmail.com",
+    "phone": "+91 99999 88888",
+    "address": {
+      "street": "Sector 000",
+      "city": "Noida",
+      "state": "India",
+      "zip": "ABC 111"
+    },
+    "website": "#",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/suraj.rajput.7370",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/suraj-rajput-7280b672/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "#",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/suryarajput274",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+     "resume":{
+    "skillmessage": "Here i'm sharing technical skills",
+  
+    
+      "education": [
+      {
+        "school": "Harcourt Butler Technical University",
+        "degree": "Masters in Computer Application",
+        "graduated": "June 2017",
+        "description": "Graduated with 63%"
+      }
+    ],
+    "work": [
+      {
+        "company": "Utok Smart Solution",
+        "title": "Software Developer",
+        "years": "Feb 2020 - Present",
+        "description": "Building features as per the requirements."
+      },
+      {
+        "company": "Paytm Payments Bank",
+        "title": "Associate",
+        "years": "Jan 2019 - Feb 2020",
+        "description": "Resolving issues regarding transactions, technical"
+      },
+
+      {
+        "company": "Tata Business Services Solution Limited",
+        "title": "Associate",
+        "years": "Jan 2019 - Feb 2020",
+        "description": "Resolving issues regarding transactions, technical"
+      }
+
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS3",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Java Script",
+        "level": "55%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Django",
+        "level": "40%"
+      }
+    ]
+  },
+
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Front End Developer Suvigya",
+        "category": "Build LMS feature (Django, HTML5, CSS3, Java Script, ReactJS)",
+        "image": "Suvigya.jpeg",
+        "url": "https://suvigya.utoksmart.com/"
+      }
+     
+    ]
+  },
+
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "It has become appallingly obvious that our technology has exceeded our humanity",
+        "user": "Albert Einstein"
+      },
+      {
+        "text": "Because the people who are crazy enough to think they can change the world are the ones who do",
+        "user": "Steve Jobs"
+      }
+    ]
+  }
+}
